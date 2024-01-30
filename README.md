@@ -8,6 +8,7 @@
 </p>
 
 ## installation guide
+
 edit .env.example to env and edit db to sqlite only
 
 php artisan key:generate
